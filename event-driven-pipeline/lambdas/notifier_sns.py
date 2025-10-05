@@ -1,0 +1,1 @@
+print('Lambda notificador SNS') 
